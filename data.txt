@@ -1,0 +1,5 @@
+Welcome to the MFET374!  
+This file contains multiple lines.  
+Python will read and process this text.  
+Can you count the lines?  
+Have fun coding!  
